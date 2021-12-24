@@ -15,6 +15,6 @@ This is example readme file for our github repo.Hear we can understand the how t
 
 6.While eating the leafs the caterpiller size and speed will be increses and you also gain 10 points for every leafs.
 
-7.If the catepillar carhes with the game window wall then the game will be over.
+7.If the catepillar get in touch with the game window wall then the game will be over.
 
 -----------------------Thank you---------------------------------------------------------------------------------------
