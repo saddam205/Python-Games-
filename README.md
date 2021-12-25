@@ -1,8 +1,8 @@
 # Python-GUI programming-
 
-* Caterpillar Game
+## Caterpillar Game
 
-This is example readme file for our github repo.Hear we can understand the how the game work.
+* This is example readme file for our github repo.Hear we can understand the how the game work.
 
 1.Go into the cmd terminal and select the path where this file is exist.  
 
