@@ -1,6 +1,6 @@
 # Python-GUI programming-
 
-##Caterpillar Game
+*Caterpillar Game
 
 This is example readme file for our github repo.Hear we can understand the how the game work.
 
